@@ -14,6 +14,7 @@ Installation:
 
 - not a plugin yet (help required)
 - copy files and folder into the standard cakephp folder structure
+- only SlugRoute.php and routes.php are necessary for slugging routes, the other files are for the sitemap in xml
 
 Use:
 
