@@ -16,7 +16,7 @@ Installation:
 - copy files and folder into the standard cakephp folder structure
 - only SlugRoute.php and routes.php are necessary for slugging routes, the other files are for the sitemap in xml
 
-Use:
+Usage:
 
 - In the routes.php are defined two routes for Contests and Special, I think quite selfexplanatory.
 - Remember to empty the slug cache when add or modify a slugged object
